@@ -62,7 +62,7 @@ export const SITE = {
    */
   verification: {
     google: "",
-    naver: "",
+    naver: "74a2daaef12c0e097b25e7f65814aa93f42ae5ca",
     bing: "",
   },
 } as const;
